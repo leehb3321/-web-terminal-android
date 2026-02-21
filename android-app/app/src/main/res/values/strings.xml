@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Web Terminal</string>
+    <string name="app_logo">App Logo</string>
+    <string name="connect_subtitle">Remote Terminal Access</string>
+    <string name="server_address">Server Address</string>
+    <string name="password">Password</string>
+    <string name="remember_password">Remember password</string>
+    <string name="connect">Connect</string>
+    <string name="server_hint">Example: 192.168.1.100:3000 or https://terminal.example.com</string>
+    <string name="refresh">Refresh</string>
+    <string name="fullscreen">Fullscreen</string>
+    <string name="logout">Logout</string>
+</resources>
